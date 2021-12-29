@@ -1,6 +1,5 @@
 import './Post.css'
-import cat from '../assets/cat.png'
-import bg from '../assets/bg.png'
+import bg from '../../assets/bg.png'
 
 export default function Post() {
     return (

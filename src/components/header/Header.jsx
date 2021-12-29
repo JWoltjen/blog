@@ -1,5 +1,5 @@
 import "./Header.css"
-import cat from '../assets/cat.png'
+import cat from '../../assets/cat.png'
 
 export default function Header() {
     return (
