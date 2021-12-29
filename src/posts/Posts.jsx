@@ -1,9 +1,15 @@
 import './Posts.css'
+import Post from '../post/Post'
 
 export default function Posts() {
     return (
         <div className="posts">
-            Posts
-        </div>
+            <Post/>
+            <Post/>
+            <Post/>
+            <Post/>
+            <Post/>
+            <Post/>
+       </div>
     )
 }
